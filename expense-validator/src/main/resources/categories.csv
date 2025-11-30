@@ -1,0 +1,1582 @@
+zomato,Food
+zomato india,Food
+zomat0,Food
+z0mato,Food
+zonate,Food
+swiggy,Food
+swigyy,Food
+swigy,Food
+ubereats,Food
+uber eats,Food
+uber,Travel
+vber,Travel
+vber ride,Travel
+ola,Travel
+indrive,Travel
+in-drive,Travel
+rapido,Travel
+ola cab,Travel
+taxi,Travel
+cab,Travel
+auto rickshaw,Travel
+auto,Travel
+uber cab,Travel
+ola auto,Travel
+bookmyshow,Entertainment
+bms,Entertainment
+cinema,Entertainment
+movie,Entertainment
+movies,Entertainment
+netflix,Entertainment
+prime video,Entertainment
+primevideo,Entertainment
+hotstar,Entertainment
+disney plus,Entertainment
+disney+,Entertainment
+spotify,Entertainment
+gaana,Entertainment
+saavn,Entertainment
+youtube,Entertainment
+ticket,Entertainment
+uber eats delivery,Food
+dominos,Food
+pizza hut,Food
+kfc,Food
+mcdonald,mFood
+mcdonalds,Food
+mcd,Food
+subway,Food
+starbucks,Food
+cafe,Food
+coffee,Food
+chai point,Food
+chaipoint,Food
+barista,Food
+bakery,Food
+baker,Food
+sweet shop,Food
+grocery,Grocery
+bigbasket,Grocery
+big basket,Grocery
+amzn,Shopping
+amazon,Shopping
+amaz0n,Shopping
+flipkart,Shopping
+flipkart seller,Shopping
+flipkart marketplace,Shopping
+myntra,Shopping
+ajio,Shopping
+meesho,Shopping
+nykaa,Shopping
+tatacliq,Shopping
+croma,Electronics
+lenskart,Shopping
+decathlon,Shopping
+sports gear,Shopping
+shoe store,Shopping
+clothing,Shopping
+fashion,Shopping
+mall,Shopping
+store,Shopping
+store purchase,Shopping
+petrol, Fuel
+petrol pump,Fuel
+petrol pump hpcl,Fuel
+hpcl,Fuel
+bpcl,Fuel
+indianoil,Fuel
+diesel,Fuel
+shell,Fuel
+fuel station,Fuel
+gas station,Fuel
+parking,Transport
+parking fee,Transport
+toll,Tolls
+toll plaza,Tolls
+parking charges,Transport
+parking lot,Transport
+train,Travel
+irctc,Travel
+bus,Travel
+metro,Travel
+flight,Travel
+airline,Travel
+airport,Travel
+hotels,Travel
+hotel stay,Travel
+motel,Travel
+resort,Travel
+booking.com,Travel
+makemytrip,Travel
+goibibo,Travel
+agoda,Travel
+oyo,Travel
+yatra,Travel
+uber partner,Travel
+ola outstation,Travel
+ride,Travel
+taxi fare,Travel
+cab booking,Travel
+cab fare,Travel
+fuel station, Fuel
+electricity,Bills
+bescom,Bills
+electric bill,Bills
+water bill,Bills
+water,Bills
+gas bill,Bills
+lpg,Bills
+phone bill,Bills
+postpaid,Bills
+prepaid,Bills
+mobile recharge,Bills
+recharge,Bills
+broadband,Bills
+jiofiber,Bills
+airtel fiber,Bills
+dish tv,Bills
+netconnect,Bills
+insurance,Insurance
+sbi general ins,Insurance
+icici lombard,Insurance
+lic,Insurance
+health insurance,Insurance
+car insurance,Insurance
+bike insurance,Insurance
+loan,Loans
+emi,Loans
+home loan,Loans
+personal loan,Loans
+bank transfer,Bank
+neft,Bank
+rtgs,Bank
+imps,Bank
+upi,Uncategorized
+upi transfer,Uncategorized
+upi db,Uncategorized
+upi payment,Uncategorized
+payment,Uncategorized
+transfer,Uncategorized
+settlement,Uncategorized
+refund,Uncategorized
+refund credit,Uncategorized
+salary,Credit
+salary credit,Credit
+credit,Credit
+debit,Debit
+atm withdrawal,Cash
+atm,Cash
+cash withdrawal,Cash
+bank charges,Bank
+processing fee,Bank
+convenience fee,Bank
+gateway charges,Bank
+merchant charges,Bank
+gst,Tax
+tax,Tax
+tds,Tax
+income tax,Tax
+gst payment,Tax
+donation,Charity
+charity,Charity
+gift,Gifts
+present,Gifts
+wedding gift,Gifts
+electronics,Electronics
+mobile,Electronics
+phone,Electronics
+smartphone,Electronics
+laptop,Electronics
+tablet,Electronics
+tv,Electronics
+electronic store,Electronics
+appliance,Electronics
+home appliance,Home
+furniture,Home
+ikea,Home
+homedecor,Home
+repair,Services
+service center,Services
+car service,Auto
+auto service,Auto
+mechanic,Services
+garage,Auto
+car wash,Auto
+petrol pump fuel, Fuel
+fuel refill, Fuel
+tanker,Utilities
+water supply,Utilities
+sewage,Utilities
+municipal tax,Bills
+parking fine,Fees
+fine,Fees
+penalty,Fees
+late fee,Fees
+late payment fee,Fees
+subscription,Subscriptions
+subscription fee,Subscriptions
+monthly subscription,Subscriptions
+netflix subscription,Subscriptions
+prime subscription,Subscriptions
+apple itunes,Subscriptions
+google play,Subscriptions
+play store,Subscriptions
+app store,Subscriptions
+in-app purchase,Subscriptions
+donation pay,Charity
+school fee,Education
+college fee,Education
+exam fee,Education
+tuition,Education
+coaching,Education
+udemy,Education
+coursera,Education
+skillshare,Education
+byjus,Education
+unacademy,Education
+books,Education
+stationery,Education
+office supplies,Work
+office,Work
+coworking,Work
+workspace,Work
+home office,Work
+business expense,Work
+client meeting,Work
+client lunch,Work
+entertainment expenses,Entertainment
+restaurant,Food
+dinner,Food
+lunch,Food
+breakfast,Food
+canteen,Food
+tiffin,Food
+catering,Food
+event,Entertainment
+conference,Work
+flight ticket,Travel
+hotel booking,Travel
+hotel reservation,Travel
+hostel,Travel
+accommodation,Travel
+lodging,Travel
+rent,Rent
+rent payment,Rent
+house rent,Rent
+flat rent,Rent
+apartment rent,Rent
+brokerage fees,Fees
+brokerage,Fees
+stock purchase,Investments
+mutual fund,Investments
+sip,Investments
+investment,Investments
+bank interest,Income
+interest received,Income
+dividend,Income
+fd interest,Income
+tax refund,Income
+cashback,Income
+offer discount,Discounts
+discount,Discounts
+promo,Discounts
+voucher,Discounts
+gift card,Gifts
+grocery online,Grocery
+instamart,Grocery
+blinkit,Grocery
+dmart,Grocery
+reliance fresh,Grocery
+more megastore,Grocery
+spencer's,Grocery
+spar,Grocery
+smart bazaar,Grocery
+supermarket,Grocery
+vegetable market,Grocery
+fruit vendor,Grocery
+butcher,Food
+fish market,Food
+seafood,Food
+restaurant bill,Food
+hotel bill,Travel
+room charge,Travel
+room rent,Travel
+conference fee,Work
+sponsorship,Work
+membership,Subscriptions
+membership fee,Subscriptions
+gym,Gym
+fitness,Gym
+fitness center,Gym
+club membership,Gym
+yoga,Yoga
+pilates,Yoga
+salon,Personal
+spa,Personal
+beauty,Personal
+cosmetics,Personal
+personal care,Personal
+pharmacy,Health
+doctor,Health
+clinic,Health
+hospital,Health
+medical,Health
+lab tests,Health
+diagnostic,Health
+1mg,Health
+tata 1mg,Health
+apollo hospitals,Health
+apollo,Health
+ayushman,Health
+medplus,Health
+pharmeasy,Health
+medicine,Health
+pet care,Pet
+vet,Pet
+veterinary,Pet
+pet food,Pet
+pet supplies,Pet
+pet grooming,Pet
+carriage,Transport
+logistics,Transport
+courier,Courier
+shipping,Courier
+delhivery,Courier
+blue dart,Courier
+dtdc,Courier
+ewaybill,Transport
+freight,Transport
+cargo,Transport
+uber eats z,Food
+food delivery,Food
+delivery charge,Fees
+service tax,Tax
+gst tax,Tax
+cgst,Tax
+sgst,Tax
+igst,Tax
+paytm,Payments
+phonepe,Payments
+google pay,Payments
+gpay,Payments
+mobiKwik,Payments
+mobi kwik,Payments
+mobicash,Payments
+razorpay,Payments
+stripe,Payments
+paypal,Payments
+venmo,Payments
+square,Payments
+wallet topup,Payments
+wallet recharge,Payments
+wallet transfer,Payments
+cashback reward,Income
+reward points,Income
+reward redemption,Income
+coupon use,Discounts
+coupon,Discounts
+promo code,Discounts
+voucher redemption,Discounts
+gift voucher,Gifts
+store credit,Gifts
+credit note,Gifts
+merchant settlement,Bank
+merchant payout,Bank
+settlement credit,Bank
+settlement debit,Bank
+commission,Business
+platform fee,Business
+service charge,Business
+delivery fee,Fees
+handling charges,Fees
+packing charges,Fees
+courier charges,Courier
+bank fees,Bank
+neft charges,Bank
+rtgs charges,Bank
+imps charges,Bank
+upi failed,Uncategorized
+upi pending,Uncategorized
+failed transaction,Uncategorized
+declined,Uncategorized
+rejected payment,Uncategorized
+void transaction,Uncategorized
+refund processed,Uncategorized
+refund failed,Uncategorized
+return,Uncategorized
+return credit,Uncategorized
+exchange,Uncategorized
+swap,Uncategorized
+repair parts,Services
+spare parts,Services
+tyre replacement,Auto
+battery replacement,Auto
+oil change,Auto
+car wash charges,Auto
+driving school,Education
+license fee,Fees
+rc renewal,Fees
+road tax,Tax
+vehicle tax,Tax
+parking permit,Fees
+parking sticker,Fees
+monthly pass,Transport
+season ticket,Transport
+annual subscription,Subscriptions
+annual fee,Fees
+renewal fee,Fees
+renewal charge,Fees
+domain registration,Work
+hosting,Work
+aws charges,Cloud
+gcp charges,Cloud
+azure charges,Cloud
+cloud services,Cloud
+server fees,Cloud
+database fees,Cloud
+cdn charges,Cloud
+maintenance contract,Services
+warranty renewal,Services
+extended warranty,Services
+repair warranty,Services
+spare warranty,Services
+customer support,Services
+support fee,Services
+consulting,Work
+freelancer pay,Work
+contractor,Work
+contractor payment,Work
+vendor payment,Work
+supplier payment,Work
+purchase order,Work
+po payment,Work
+invoice payment,Work
+bill payment,Bills
+utility payment,Bills
+subscription renewal,Subscriptions
+subscription renewal fee,Subscriptions
+streaming,Entertainment
+gaming,Entertainment
+xbox,Entertainment
+playstation,Entertainment
+steam,Entertainment
+epic games,Entertainment
+game purchase,Entertainment
+in-game purchase,Entertainment
+toy store,Shopping
+kids store,Shopping
+baby store,Shopping
+baby products,Shopping
+diapers,Shopping
+hospital bills,Health
+surgery,Health
+consultation,Health
+video call,Work
+teleconsultation,Health
+labour charges,Services
+doctor fees,Health
+operation theatre,Health
+icu charges,Health
+ward charges,Health
+mri scan,Health
+ct scan,Health
+xray,Health
+blood test,Health
+urine test,Health
+pathology,Health
+pharmacy bill,Health
+lab charges,Health
+vaccination,Health
+vaccine,Health
+covid test,Health
+pcr test,Health
+rapid antigen test,Health
+taxi booking,Travel
+cab booking charges,Travel
+trip fare,Travel
+trip charge,Travel
+fare adjustment,Travel
+refund adjustment,Uncategorized
+reversal,Uncategorized
+settlement reversal,Uncategorized
+interest charges,Bank
+overdraft fee,Bank
+penalty charges,Fees
+service fee,Fees
+annual maintenance fee,Bank
+amc fee,Bank
+card annual fee,Bank
+credit card fee,Bank
+card charges,Bank
+card processing fee,Bank
+card payment,Bank
+card settlement,Bank
+upi collect,Payments
+upi collect request,Payments
+virtual card,Payments
+virtual account,Bank
+virtual account transfer,Bank
+bank transfer in,Bank
+bank transfer out,Bank
+bank deposit,Bank
+bank withdrawal,Bank
+cash deposit,Bank
+cash in,Bank
+cash out,Bank
+atm fee,Cash
+atm charges,Cash
+atm withdrawal fee,Cash
+atm cash deposit,Cash
+locker charges,Bank
+safe deposit box,Bank
+cheque bounce fee,Bank
+cheque book charges,Bank
+demand draft fees,Bank
+dd charges,Bank
+remittance,Payments
+inward remittance,Payments
+outward remittance,Payments
+foreign exchange,Travel
+forex fee,Travel
+currency conversion,Travel
+currency conversion fee,Travel
+international transaction fee,Travel
+swipe charges,Bank
+pos charges,Bank
+merchant discount rate,Bank
+mdr fee,Bank
+merchant fee,Bank
+merchant settlement fee,Bank
+merchant commission,Business
+affiliate payment,Work
+referral bonus,Income
+referral reward,Income
+cash reward,Income
+loyalty points,Income
+loyalty redemption,Income
+gift redemption,Gifts
+gift purchase,Gifts
+birthday gift,Gifts
+anniversary gift,Gifts
+corporate gift,Gifts
+office supplies,Work
+printer cartridge,Work
+ink refill,Work
+office stationery,Work
+paper purchase,Work
+file folder,Work
+pen purchase,Work
+desk purchase,Work
+chair purchase,Home
+sofa purchase,Home
+bed purchase,Home
+mattress,Home
+curtains,Home
+flooring,Home
+painting supply,Home
+electrician charge,Services
+plumber charge,Services
+ac repair,Services
+ac service,Services
+ac gas refill,Services
+washing machine repair,Services
+geyser repair,Services
+chimney service,Services
+kitchen repair,Services
+service charge domestic,Services
+maid service,Services
+housekeeping,Services
+cleaning service,Services
+pest control,Services
+garden maintenance,Services
+lawn care,Services
+plant nursery,Home
+plant purchase,Home
+plant fertilizer,Home
+petrol card, Fuel
+diesel card, Fuel
+fuel card, Fuel
+fastag,Tolls
+fastag recharge,Tolls
+toll recharge,Tolls
+toll payment,Tolls
+expressway tolls,Tolls
+hiway tolls,Tolls
+highway tolls,Tolls
+taxi meter,Travel
+auto meter,Travel
+meter fare,Travel
+metered fare,Travel
+parking meter,Transport
+parking ticket,Transport
+parking charge,Transport
+violation fine,Fees
+traffic fine,Fees
+police fine,Fees
+challan payment,Fees
+court fees,Fees
+legal fees,Fees
+lawyer fees,Fees
+advocate fee,Fees
+consultation fee,Work
+consulting charge,Work
+professional fee,Work
+freelance fee,Work
+gig payment,Work
+platform commission,Work
+platform fee,Work
+marketplace fee,Work
+seller fee,Work
+vendor fee,Work
+supplier fee,Work
+supplier invoice,Work
+purchase invoice,Work
+purchase return,Uncategorized
+stock returned,Uncategorized
+warranty claim,Services
+warranty replacement,Services
+replacement charge,Services
+service replacement,Services
+exchange return,Uncategorized
+refund credit note,Uncategorized
+credit memo,Uncategorized
+debit memo,Uncategorized
+adjustment entry,Uncategorized
+journal entry,Uncategorized
+interest income,Income
+investment income,Income
+bond interest,Income
+coupon payment,Income
+dividend payout,Income
+mutual fund redemption,Investments
+sip redemption,Investments
+ipo subscription,Investments
+ipo allotment,Investments
+stock dividend,Income
+share purchase,Investments
+share sale,Investments
+brokerage charges,Investments
+brokerage fee,Investments
+demat charges,Investments
+custodian fee,Investments
+portfolio management,Investments
+advisory fee,Investments
+wealth management,Investments
+robo advisor,Investments
+tax consultancy,Services
+accounting fees,Services
+auditing fees,Services
+bookkeeping,Services
+payroll services,Services
+salary processing,Work
+salary payout,Work
+staff salary,Work
+contractor salary,Work
+temporary staffing,Work
+agency fees,Work
+placement fee,Work
+training fee,Education
+corporate training,Education
+seminar fee,Education
+conference ticket,Work
+event ticket,Entertainment
+expo ticket,Work
+trade fair,Work
+stall booking,Work
+sponsorship fee,Work
+vendor stall,Work
+food stall,Food
+beverage stall,Food
+stall rent,Fees
+stall setup,Work
+equipment hire,Work
+audio visual,Work
+av hire,Work
+stage setup,Work
+light hire,Work
+sound hire,Work
+camera hire,Work
+photography,Work
+videography,Work
+photo printing,Work
+photo studio,Work
+image editing,Work
+printing services,Work
+banner printing,Work
+flex printing,Work
+offset printing,Work
+digital printing,Work
+t shirt printing,Shopping
+merchandise,Shopping
+branded merchandise,Shopping
+company swag,Work
+promotional items,Work
+marketing expense,Work
+ad spend,Work
+facebook ads,Work
+google ads,Work
+linkedin ads,Work
+twitter ads,Work
+instagram ads,Work
+social media ads,Work
+campaign cost,Work
+ad agency,Work
+creative agency,Work
+branding expense,Work
+seo services,Work
+sem services,Work
+smm services,Work
+content creation,Work
+copywriting,Work
+graphic design,Work
+ui ux,Work
+ux design,Work
+product design,Work
+prototype expense,Work
+labour charge,Services
+contract labour,Work
+outsourced services,Work
+managed services,Work
+it support,Work
+it maintenance,Work
+software license,Cloud
+saas subscription,Cloud
+saas fee,Cloud
+saas renewal,Cloud
+license renewal,Cloud
+antivirus renewal,Cloud
+security services,Cloud
+pen test,Cloud
+audit trail,Work
+compliance fee,Work
+regulatory fee,Work
+filing fee,Work
+roc filing,Work
+gst filing,Tax
+tds filing,Tax
+income tax filing,Tax
+tax consultant,Tax
+tax advisory,Tax
+tax refund processed,Income
+assessment fee,Tax
+penalty tax,Tax
+late filing fee,Tax
+forms fee,Tax
+document fee,Fees
+notary charges,Fees
+stamp duty,Fees
+registration fee,Fees
+legal stamp,Fees
+property tax,Tax
+municipal fee,Bills
+house tax,Tax
+maintenance bill,Bills
+society fee,Bills
+society maintenance,Bills
+society charges,Bills
+committee fee,Bills
+amenity fee,Bills
+swimming pool fee,Bills
+gym fee,Subscriptions
+club fee,Subscriptions
+sports fee,Subscriptions
+tournament fee,Entertainment
+match ticket,Entertainment
+stadium ticket,Entertainment
+season pass,Entertainment
+member renewal,Subscriptions
+annual membership,Subscriptions
+vip membership,Subscriptions
+premium subscription,Subscriptions
+pro subscription,Subscriptions
+enterprise subscription,Cloud
+team subscription,Cloud
+user license,Cloud
+seat license,Cloud
+concurrent license,Cloud
+support contract,Services
+sla renewal,Services
+priority support,Services
+on call support,Services
+field visit,Services
+onsite support,Services
+offsite support,Services
+remote support,Services
+support ticket,Services
+ticket fee,Fees
+issue fee,Fees
+service desk,Services
+helpdesk,Services
+incident management,Services
+change request,Services
+change management,Services
+project fee,Work
+project cost,Work
+milestone payment,Work
+retainer fee,Work
+advance payment,Work
+down payment,Work
+booking advance,Work
+security deposit,Rent
+deposit refund,Rent
+damage deposit,Rent
+cleaning deposit,Rent
+move in fee,Rent
+move out fee,Rent
+packing charges,Services
+moving charges,Services
+cargo shipping,Courier
+container charges,Courier
+air cargo,Transport
+sea freight,Transport
+port charges,Transport
+customs duty,Tax
+import duty,Tax
+export duty,Tax
+brokerage customs,Fees
+customs clearance,Services
+freight forwarding,Services
+logistics support,Services
+third party logistics,Courier
+3pl charges,Courier
+warehousing,Services
+storage fee,Services
+cold storage,Services
+cold chain,Services
+refrigerated transport,Transport
+temperature control,Services
+quality check,Services
+qc charges,Services
+inspection fee,Services
+certification fee,Services
+iso certification,Services
+safety audit,Services
+safety inspection,Services
+environment fee,Services
+eco fee,Services
+carbon offset,Services
+csr donation,Charity
+corporate social responsibility,Charity
+community program,Charity
+non profit donation,Charity
+ngo donation,Charity
+volunteer expense,Charity
+fundraising fee,Charity
+event sponsorship,Work
+charity event,Charity
+auction purchase,Shopping
+bids purchase,Shopping
+online auction,Shopping
+resale purchase,Shopping
+second hand,Shopping
+used goods,Shopping
+refurbished,Shopping
+repair parts purchase,Services
+maintenance parts,Services
+spare purchase,Services
+consumables,Services
+office consumables,Work
+factory consumables,Work
+production cost,Work
+raw material,Work
+material purchase,Work
+material handling,Work
+packing material,Work
+repackaging,Work
+quality assurance,Work
+qa charges,Work
+testing lab,Work
+lab charges bill,Work
+sample purchase,Work
+prototype build,Work
+industrial equipment,Work
+machinery,Work
+heavy machinery,Work
+machine maintenance,Services
+annual service,Services
+inspection charges,Services
+calibration charges,Services
+meter reading,Utilities
+meter charge,Utilities
+meter rent,Utilities
+meter installation,Utilities
+installation charge,Fees
+setup fee,Fees
+one time setup,Fees
+onetime fee,Fees
+customization fee,Work
+integration fee,Work
+integration services,Work
+api integration,Work
+developer charge,Work
+devops,Cloud
+devops fee,Cloud
+sre services,Cloud
+infrastructure,Cloud
+infra charge,Cloud
+hosted service,Cloud
+managed infra,Cloud
+database hosting,Cloud
+db hosting,Cloud
+db migration,Cloud
+migration fee,Cloud
+data transfer,Cloud
+bandwidth charge,Cloud
+egress fee,Cloud
+ingress fee,Cloud
+network charge,Cloud
+vpn charges,Cloud
+dedicated line,Cloud
+leased line,Cloud
+eircom charges,Cloud
+colocation,Cloud
+rack space,Cloud
+power charges,Utilities
+electric power,Utilities
+generator fuel,Utilities
+diesel generator,Utilities
+genset fuel,Utilities
+backup generator,Utilities
+ups battery,Utilities
+battery replacement,Utilities
+solar panel,Utilities
+solar installation,Utilities
+renewable energy,Utilities
+green energy,Utilities
+environment tax,Tax
+carbon tax,Tax
+sustainability fee,Fees
+eco charge,Fees
+green fee,Fees
+recycling fee,Fees
+waste disposal fee,Fees
+garbage collection,Utilities
+swachh bharat tax,Tax
+sanitation fee,Utilities
+sewerage fee,Utilities
+water supply charge,Utilities
+water meter,Utilities
+septic tank service,Utilities
+pumping charges,Utilities
+drain cleaning,Services
+road repair charge,Services
+street light bill,Utilities
+public utility,Utilities
+municipal service,Utilities
+civic body charge,Utilities
+local tax,Tax
+property maintenance,Bills
+hoa fee,Bills
+hoa maintenance,Bills
+community charges,Bills
+amenity maintenance,Bills
+playground fee,Fees
+sports facility fee,Fees
+parking allocation fee,Fees
+security service,Services
+guard charges,Services
+security system,Services
+cctv maintenance,Services
+camera maintenance,Services
+access card fee,Fees
+token charge,Fees
+misc charge,Uncategorized
+miscellaneous,Uncategorized
+other,Uncategorized
+other charges,Uncategorized
+sundry,Uncategorized
+sundry expenses,Uncategorized
+unclassified,Uncategorized
+uncategorized,Uncategorized
+unknown,Uncategorized
+various,Uncategorized
+multiple items,Uncategorized
+combined bill,Uncategorized
+split charge,Uncategorized
+split payment,Uncategorized
+partial payment,Uncategorized
+installment,Uncategorized
+instalment,Uncategorized
+instmnt,Uncategorized
+inst,Uncategorized
+cc payment,Bank
+card payment,Bank
+card swipe,Bank
+card refund,Bank
+card settlement,Bank
+pos transaction,Bank
+pos terminal,Bank
+contactless payment,Bank
+tap and pay,Bank
+nfc payment,Bank
+tap to pay,Bank
+swipe machine,Bank
+eftpos,Bank
+contactless,Bank
+chip and pin,Bank
+magstripe,Bank
+magnetic stripe,Bank
+manual entry,Bank
+voice auth,Bank
+phone auth,Bank
+otp payment,Bank
+moto payment,Bank
+mail order,Shopping
+telephone order,Shopping
+online order,Shopping
+ecommerce,Shopping
+marketplace,Shopping
+third party marketplace,Shopping
+dropship fee,Work
+dropshipping,Work
+sourcing fee,Work
+procurement,Work
+supply chain,Work
+supply charge,Work
+inventory purchase,Work
+stock purchase,Work
+warehouse rent,Services
+warehouse rent fee,Services
+storage rent,Services
+cold storage rent,Services
+inventory management,Work
+sku purchase,Work
+barcode purchase,Work
+label printing,Work
+product label,Work
+packaging,labeling,Work
+shipping label,Courier
+logistics fee,Courier
+last mile,Courier
+last-mile delivery,Courier
+delivery partner,Courier
+delivery partner fee,Courier
+rider payment,Courier
+rider tip,Income
+delivery tip,Income
+rider tip payment,Income
+customer tip,Income
+service tip,Income
+restaurant tip,Income
+bar tip,Income
+hotel tip,Income
+valet tip,Income
+valet parking,Transport
+valet charge,Transport
+car valet,Auto
+car valet service,Auto
+chauffeur,Transport
+driver allowance,Work
+driver salary,Work
+fuel allowance,Work
+travel allowance,Work
+per diem,Work
+daily allowance,Work
+conveyance,Work
+local travel,Work
+outstation,Travel
+domestic flight,Travel
+international flight,Travel
+visa fee,Travel
+passport fee,Travel
+travel insurance,Insurance
+tour package,Travel
+tour booking,Travel
+travel agency,Travel
+tour operator,Travel
+guide fee,Travel
+sightseeing,Travel
+entertainment expense,Entertainment
+outing expense,Entertainment
+party expense,Entertainment
+celebration expense,Entertainment
+festival expense,Entertainment
+diwali shopping,Shopping
+diwali gift,Gifts
+new year party,Entertainment
+christmas gifts,Gifts
+eid celebration,Entertainment
+onam festival,Entertainment
+puja expenses,Entertainment
+temple donation,Charity
+prasad purchase,Food
+ritual charges,Services
+pandal rent,Services
+event rent,Services
+stage rent,Services
+tent rent,Services
+sound rent,Services
+light rent,Services
+generator hire,Services
+power hire,Services
+catering charges,Food
+catering service,Food
+chef charges,Food
+food prep,Food
+food catering,Food
+food stall rent,Food
+stall setup charges,Work
+stall charges,Work
+market stall,Work
+farmers market,Shopping
+organic store,Grocery
+organic produce,Grocery
+farmer vendor,Grocery
+vegetable vendor,Grocery
+fruit vendor,Grocery
+local vendor,Grocery
+kirana,Kirana
+kirana store,Grocery
+kirana shop,Grocery
+kirana purchase,Grocery
+neighborhood store,Grocery
+corner store,Grocery
+mom and pop store,Grocery
+mom & pop store,Grocery
+ma and pa store,Grocery
+convenience store,Grocery
+7 eleven,Grocery
+7eleven,Grocery
+conbini,Grocery
+minimart,Grocery
+dairy purchase,Food
+milk purchase,Food
+milkman,Food
+milk delivery,Food
+bread purchase,Food
+flour purchase,Food
+rice purchase,Food
+dal purchase,Food
+pulses purchase,Food
+spices purchase,Food
+salt purchase,Food
+oil purchase,Food
+ghee purchase,Food
+butter purchase,Food
+cheese purchase,Food
+yogurt purchase,Food
+icecream,Food
+dessert,Food
+sweets,Food
+mithai,Food
+mithai shop,Food
+confectionery,Food
+chocolates,Food
+candy shop,Food
+snack purchase,Food
+chips purchase,Food
+cracker purchase,Entertainment
+fireworks,Entertainment
+festival shopping,Shopping
+seasonal shopping,Shopping
+hotel booking.com,Travel
+booking com,Travel
+bookingcom,Travel
+makemytrip.com,Travel
+mmt,Travel
+goibibo.com,Travel
+yatra.com,Travel
+cleartrip.com,Travel
+cleartrip,Travel
+irctc.co.in,Travel
+railway booking,Travel
+rail ticket,Travel
+ticket booking,Travel
+online ticket,Entertainment
+movie booking,Entertainment
+bus booking,Travel
+bus ticket,Travel
+coach booking,Travel
+sleeper ticket,Travel
+ac ticket,Travel
+pnr charge,Travel
+pnr fee,Travel
+food delivery tip,Income
+delivery tip,Income
+service gratuity,Income
+service gratuities,Income
+gratuity,Income
+severance,Work
+retirement payout,Income
+pension,Income
+pension contribution,Income
+epf contribution,Income
+esi contribution,Income
+provident fund,Income
+pf contribution,Income
+pf loan,Loans
+pf withdrawal,Income
+hra,Salary
+hra allowance,Salary
+conveyance allowance,Salary
+medical allowance,Salary
+food allowance,Salary
+education allowance,Salary
+special allowance,Salary
+bonus,Salary
+performance bonus,Salary
+incentive,Salary
+commission,Salary
+commission payout,Salary
+sales commission,Salary
+refundable deposit,Rent
+security deposit refund,Rent
+booking deposit,Rent
+advance rent,Rent
+rent advance,Rent
+lease rent,Rent
+lease payment,Rent
+rent agreement,Rent
+lease agreement,Rent
+society maintenance fee,Bills
+garbage fee,Bills
+water tax,Bills
+drainage fee,Bills
+storm water fee,Bills
+road maintenance fee,Bills
+heritage fee,Bills
+municipal corporation fee,Bills
+city tax,Bills
+tourist tax,Travel
+resort fee,Travel
+luxury tax,Tax
+service tax charge,Tax
+entertainment tax,Tax
+local tax charge,Tax
+entrance fee,Fees
+admission fee,Fees
+school admission,Education
+college admission,Education
+university fee,Education
+exam registration,Education
+certification fee,Education
+license renewal fee,Fees
+professional license,Fees
+bar council fee,Fees
+medical council fee,Fees
+engineering council fee,Fees
+membership renewal,Subscriptions
+subscription plan,Subscriptions
+subscription plan fee,Subscriptions
+plan upgrade,Subscriptions
+plan downgrade,Subscriptions
+plan change,Subscriptions
+billing cycle,Subscriptions
+billing period,Subscriptions
+pro rata charge,Fees
+prorated fee,Fees
+partial refund,Uncategorized
+partial credit,Uncategorized
+interim payment,Uncategorized
+advance tax,Tax
+tax deposit,Tax
+tax payment,Tax
+tds credit,Tax
+tds deduction,Tax
+withholding tax,Tax
+tax withheld,Tax
+tax collected,Tax
+tax charged,Tax
+zomato,Food
+zomato india,Food
+zomat0,Food
+z0mato,Food
+zonate,Food
+swiggy,Food
+swigyy,Food
+swigy,Food
+ubereats,Food
+uber eats,Food
+uber,Travel
+vber,Travel
+vber ride,Travel
+ola,Travel
+indrive,Travel
+in-drive,Travel
+rapido,Travel
+ola cab,Travel
+taxi,Travel
+cab,Travel
+auto rickshaw,Travel
+auto,Travel
+uber cab,Travel
+ola auto,Travel
+bookmyshow,Entertainment
+bms,Entertainment
+cinema,Entertainment
+movie,Entertainment
+movies,Entertainment
+netflix,Entertainment
+prime video,Entertainment
+primevideo,Entertainment
+hotstar,Entertainment
+disney plus,Entertainment
+disney+,Entertainment
+spotify,Entertainment
+gaana,Entertainment
+saavn,Entertainment
+youtube,Entertainment
+ticket,Entertainment
+uber eats delivery,Food
+dominos,Food
+pizza hut,Food
+kfc,Food
+mcdonald,Food
+mcdonalds,Food
+mcd,Food
+subway,Food
+starbucks,Food
+cafe,Food
+coffee,Food
+chai point,Food
+chaipoint,Food
+barista,Food
+bakery,Food
+baker,Food
+sweet shop,Food
+grocery,Grocery
+bigbasket,Grocery
+big basket,Grocery
+amzn,Shopping
+amazon,Shopping
+amaz0n,Shopping
+flipkart,Shopping
+flipkart seller,Shopping
+flipkart marketplace,Shopping
+myntra,Shopping
+ajio,Shopping
+meesho,Shopping
+nykaa,Shopping
+tatacliq,Shopping
+croma,Electronics
+lenskart,Shopping
+decathlon,Shopping
+sports gear,Shopping
+shoe store,Shopping
+clothing,Shopping
+fashion,Shopping
+mall,Shopping
+store,Shopping
+store purchase,Shopping
+petrol, Fuel
+petrol pump,Fuel
+petrol pump hpcl,Fuel
+hpcl,Fuel
+bpcl,Fuel
+indianoil,Fuel
+diesel,Fuel
+shell,Fuel
+fuel station,Fuel
+gas station,Fuel
+parking,Transport
+parking fee,Transport
+toll,Tolls
+toll plaza,Tolls
+parking charges,Transport
+parking lot,Transport
+train,Travel
+irctc,Travel
+bus,Travel
+metro,Travel
+flight,Travel
+airline,Travel
+airport,Travel
+hotels,Travel
+hotel stay,Travel
+motel,Travel
+resort,Travel
+booking.com,Travel
+makemytrip,Travel
+goibibo,Travel
+agoda,Travel
+oyo,Travel
+yatra,Travel
+uber partner,Travel
+ola outstation,Travel
+ride,Travel
+taxi fare,Travel
+cab booking,Travel
+cab fare,Travel
+fuel station, Fuel
+electricity,Bills
+bescom,Bills
+electric bill,Bills
+water bill,Bills
+water,Bills
+gas bill,Bills
+lpg,Bills
+phone bill,Bills
+postpaid,Bills
+prepaid,Bills
+mobile recharge,Bills
+recharge,Bills
+broadband,Bills
+jiofiber,Bills
+airtel fiber,Bills
+dish tv,Bills
+netconnect,Bills
+insurance,Insurance
+sbi general ins,Insurance
+icici lombard,Insurance
+lic,Insurance
+health insurance,Insurance
+car insurance,Insurance
+bike insurance,Insurance
+loan,Loans
+emi,Loans
+home loan,Loans
+personal loan,Loans
+bank transfer,Bank
+neft,Bank
+rtgs,Bank
+imps,Bank
+upi,Uncategorized
+upi transfer,Uncategorized
+upi db,Uncategorized
+upi payment,Uncategorized
+payment,Uncategorized
+transfer,Uncategorized
+settlement,Uncategorized
+refund,Uncategorized
+refund credit,Uncategorized
+salary,Credit
+salary credit,Credit
+credit,Credit
+debit,Debit
+atm withdrawal,Cash
+atm,Cash
+cash withdrawal,Cash
+bank charges,Bank
+processing fee,Bank
+convenience fee,Bank
+gateway charges,Bank
+merchant charges,Bank
+gst,Tax
+tax,Tax
+tds,Tax
+income tax,Tax
+gst payment,Tax
+donation,Charity
+charity,Charity
+gift,Gifts
+present,Gifts
+wedding gift,Gifts
+electronics,Electronics
+mobile,Electronics
+phone,Electronics
+smartphone,Electronics
+laptop,Electronics
+tablet,Electronics
+tv,Electronics
+electronic store,Electronics
+appliance,Electronics
+home appliance,Home
+furniture,Home
+ikea,Home
+homedecor,Home
+repair,Services
+service center,Services
+car service,Auto
+auto service,Auto
+mechanic,Services
+garage,Auto
+car wash,Auto
+carriage,Transport
+logistics,Transport
+courier,Courier
+shipping,Courier
+delhivery,Courier
+blue dart,Courier
+dtdc,Courier
+ewaybill,Transport
+freight,Transport
+parking meter,Transport
+parking ticket,Transport
+valet parking,Transport
+gym,Gym
+fitness,Gym
+salon,Personal
+spa,Personal
+pharmacy,Health
+doctor,Health
+clinic,Health
+hospital,Health
+medical,Health
+lab tests,Health
+diagnostic,Health
+1mg,Health
+tata 1mg,Health
+apollo hospitals,Health
+apollo,Health
+medplus,Health
+pharmeasy,Health
+medicine,Health
+pet care,Pet
+vet,Pet
+veterinary,Pet
+pet food,Pet
+pet supplies,Pet
+pet grooming,Pet
+food delivery,Food
+delivery charge,Fees
+service tax,Tax
+cgst,Tax
+sgst,Tax
+igst,Tax
+paytm,Payments
+phonepe,Payments
+google pay,Payments
+gpay,Payments
+mobiKwik,Payments
+razorpay,Payments
+stripe,Payments
+paypal,Payments
+venmo,Payments
+wallet topup,Payments
+wallet recharge,Payments
+wallet transfer,Payments
+cashback reward,Income
+reward points,Income
+reward redemption,Income
+coupon,Discounts
+promo,Discounts
+voucher,Discounts
+gift card,Gifts
+grocery online,Grocery
+instamart,Grocery
+blinkit,Grocery
+dmart,Grocery
+reliance fresh,Grocery
+more megastore,Grocery
+spencer's,Grocery
+spar,Grocery
+smart bazaar,Grocery
+supermarket,Grocery
+vegetable market,Grocery
+fruit vendor,Grocery
+butcher,Food
+fish market,Food
+seafood,Food
+restaurant bill,Food
+hotel bill,Travel
+room charge,Travel
+room rent,Travel
+rent,Rent
+rent payment,Rent
+house rent,Rent
+flat rent,Rent
+apartment rent,Rent
+brokerage fees,Fees
+brokerage,Fees
+stock purchase,Investments
+mutual fund,Investments
+sip,Investments
+investment,Investments
+bank interest,Income
+interest received,Income
+dividend,Income
+fd interest,Income
+tax refund,Income
+cashback,Income
+offer discount,Discounts
+discount,Discounts
